@@ -203,12 +203,12 @@ Finally I synced files with this command.
 aws s3 sync . s3://cdn1.dedunu.click
 ```
 
-## Reference
+### Reference
 
 - <https://medium.com/runatlantis/hosting-our-static-site-over-ssl-with-s3-acm-cloudfront-and-terraform-513b799aec0f>
 - <https://awstip.com/aws-cloudfront-with-s3-as-origin-using-terraform-a369cdadc541>
 
-## Tags
+### Tags
 
 - terraform
 - aws
