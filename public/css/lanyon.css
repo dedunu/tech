@@ -572,7 +572,7 @@ nav {
 		color: #444;
 		text-transform: uppercase;
 		letter-spacing: 1px;
-		font-size: .9em;
+		font-size: 14px;
 
 		&.active {
 			color: #888;
