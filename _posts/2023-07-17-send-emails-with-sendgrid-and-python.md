@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Send emails with SendGrid with Python 3
---- 
+---
 
 I wanted to send emails with Twillio SendGrid. It offers a generous free tier. Set up the domain and authenticate the identity. You have to generate an API key with "Mail Send" privileges. 
 
