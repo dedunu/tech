@@ -556,3 +556,30 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+nav {
+	position: fixed;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background: rgba(255, 255, 255, .9);
+	z-index: 999;
+
+	a {
+		display: inline-block;
+		text-decoration: none;
+		padding: 20px 15px;
+		color: #444;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: .9em;
+
+		&.active {
+			color: #888;
+		}
+
+		&:hover {
+			color: #000;
+		}
+	}
+}
