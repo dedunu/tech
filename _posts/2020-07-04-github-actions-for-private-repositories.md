@@ -96,15 +96,15 @@ Actions in action - <https://github.com/dedunu/github-actions/pull/9>
 
 When you create pull requests, you can see the workflows starting.
 
-![](../resources//6.png)
+![](/resources//6.png)
 
 You can see it added a label, comment, and reviewer.
 
-![](../resources//7.png)
+![](/resources//7.png)
 
 Logs can be found in the checks section. Logging helps you to debug actions. Be careful not to print GITHUB_TOKEN!
 
-![](../resources//8.png)
+![](/resources//8.png)
 
 API documentation can be found here - <https://octokit.github.io/rest.js/v18>
 

@@ -3,13 +3,13 @@ layout: post
 title: "Some photos from the first Colombo MongoDB Meetup"
 ---
 
-![](../resources/12.jpg)
+![](/resources/12.jpg)
 
-![](../resources/13.jpg)
+![](/resources/13.jpg)
 
-![](../resources/14.jpg)
+![](/resources/14.jpg)
 
-![](../resources/15.jpg)
+![](/resources/15.jpg)
 
 ### Links
 
