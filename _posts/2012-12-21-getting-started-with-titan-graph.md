@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Titan Graph Database
+title: "Getting Started with Titan Graph Database"
 ---
 
 I have used Neo4J as my first graph database. And it had web console which makes easier to handle. But this time I'm not going to tell you how to get started with Neo4J. This time we are going to work with Titan which is an open source project which is held by [Aurelius](http://thinkaurelius.github.com/titan/).  

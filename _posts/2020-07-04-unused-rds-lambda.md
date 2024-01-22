@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stopping unused RDS instances using AWS Lambda
+title: "Stopping unused RDS instances using AWS Lambda"
 ---
 
 If you stop unused RDS instances, it will start in 7 days. It is easy, if you have one instance, you can manage manually. When you have 100s of database instances, it is a bit difficult to stop them manually. If you create a lambda function with a weekly EventBrigde (CloudWatch Events) trigger, it will keep the instances stopped.
@@ -123,7 +123,7 @@ def check_for_unused(db_instance, conn):
     conn.close()
 ```
 
-#### Gists
+## Gist
 
 - <https://gist.github.com/dedunumax/cc66e901e29e139247690d54be77d026>
 

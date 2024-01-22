@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create PrivateBin using Python 3
+title: "Create PrivateBin using Python 3"
 ---
 
 I wanted to create a PrivateBin note with Python. It looks so easy at a glance. But request has to be encrypted properly. 
@@ -153,7 +153,7 @@ private_bin = PrivateBin("Sample Text")
 print("Link returned: " + private_bin.create_post())
 ```
 
-#### Gists
+## Gist
 
 - <https://gist.github.com/dedunumax/75bff57e34ebf4a39356c8560434daef>
 

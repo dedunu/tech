@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macOS Catalina Disaster and how to recover
+title: "macOS Catalina Disaster and how to recover"
 ---
 
 I upgraded to Catalina last week. I have three major issues with the new version.

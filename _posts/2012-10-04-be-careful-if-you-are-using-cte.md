@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be careful if you are using CTE!
+title: "Be careful if you are using CTE!"
 ---
 
 [Previously I wrote a post about CTE](https://www.dedunu.info/2012/09/common-table-expressions-cte.html) (Common Table Expressions). And Common Table Expressions are valid for a single statement only. But a single statement can use many CTEs. And statement also should be within the same batch.

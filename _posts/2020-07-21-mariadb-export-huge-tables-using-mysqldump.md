@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MariaDB: Export huge tables using mysqldump
+title: "MariaDB: Export huge tables using mysqldump"
 ---
 
 Have you ever gotten this error when you are trying to export huge tables using `mysqldump`?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create an EMR cluster using Boto3?
+title: "How to create an EMR cluster using Boto3?"
 ---
 
 I wrote a blog post about [Boto2 and EMR clusters a few months ago](2016-01-05-how-to-specify-releaselabel-for-emr.md). Today I'm going to show how to create EMR clusters using Boto3. Boto3 documentation is available at [here](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html).
@@ -62,7 +62,7 @@ cluster_id = connection.run_job_flow(
 print (cluster_id['JobFlowId'])
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/5491fa5430427626ef47>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where to declare Java Variables?
+title: "Where to declare Java Variables?"
 ---
 
 Recently I went to Java Meetup. And it was all about Garbage Collector. So I learned lot more about Garbage Collectors. So Dr. Daya's suggestions was not to declare variable in higher scopes unless we really know what we do. For a example, don't declare class level variables if we are only using it inside on method. Then I was thinking about doing some tests on variable declarations. I used following code:

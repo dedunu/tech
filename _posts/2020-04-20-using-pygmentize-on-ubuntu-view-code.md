@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using pygmentize on Ubuntu view code files
+title: "Using pygmentize on Ubuntu view code files"
 ---
 
 On the terminal, viewing code with colour might improve productivity. You can use `pygmentize` to view code in colour. Install `pygmentize` using below commands.

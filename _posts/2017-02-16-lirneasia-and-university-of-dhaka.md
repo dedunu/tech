@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LIRNEasia and University of Dhaka Research Collaboration
+title: "LIRNEasia and University of Dhaka Research Collaboration"
 ---
 
 [LIRNEasia](https://lirneasia.net/) collaborates with University of Dhaka Data and Design lab to perform policy-related research. A research workshop was held at the University of Dhaka. Apache Spark and Hadoop sessions were done by me.

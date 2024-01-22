@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ranking in T-SQL
+title: "Ranking in T-SQL"
 ---
 
 In Queries, we need to rank and number records. SQL Server gives you a few functions to rank your records.

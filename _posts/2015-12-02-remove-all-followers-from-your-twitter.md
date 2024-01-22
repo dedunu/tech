@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remove all the followers from your twitter account
+title: "Remove all the followers from your twitter account"
 ---
 
 You might use social networks more often. All of us know that it is really hard to do bulk operations on Facebook and Twitter.
@@ -32,7 +32,7 @@ for user in followers_list:
     print user
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/91992ac6f1940be5d391>
 

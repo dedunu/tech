@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delete using another Table
+title: "Delete using another Table"
 ---
 
 In this example, I create a temp table on `AdventureWorks2012` Database, and first I load all the data in `HumanResources.Employee` to the temporary table. Then I delete data using `HumanResources.Employee`. This command will delete all the records in Tmp which has `Gender = ‘M’` in `HumanResources.Employee` table.

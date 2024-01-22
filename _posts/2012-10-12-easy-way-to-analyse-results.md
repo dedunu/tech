@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easy way to analyse results
+title: "Easy way to analyse results"
 ---
 
 I have seen in many video tutorials they have different tabs for Editor, Results, Messages and Execution Plans. And they are stretched over the complete screen. Most of the times need to resize the result area to see our results. Actually, it's annoying me. Then I noticed in one of Paul Randal’s video he uses Separate tabs for Results editor and messages in SQL Server Management Studio (SSMS). Then I wanted to find how to get those tabs to my SSMS (Often I call it SMSS don’t know why Winking smile).

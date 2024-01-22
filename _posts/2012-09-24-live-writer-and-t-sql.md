@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live Writer and T-SQL
+title: "Live Writer and T-SQL"
 ---
 
 Today I wanted to paste a few statements on Live Writer which were coded on SQL Server Management Studio 2012. But when I paste the code into Live Writer I got disappointed about the look. Codes were awesome on SMSS 2012 with colours. Then I wanted to find a way to insert those code with Visual Studio formatting. I found a few plugins but they were not cool. Then I found this blog.

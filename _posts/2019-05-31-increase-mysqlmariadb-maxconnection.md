@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increase MySQL/MariaDB max_connections online (without a restart)
+title: "Increase MySQL/MariaDB max_connections online (without a restart)"
 ---
 
 MySQL/MariaDB makes DBA's life much easier by allowing to increase the number of max_connections.

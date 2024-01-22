@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programming Microsoft SQL server 2012
+title: "Programming Microsoft SQL server 2012"
 ---
 
 Before few weeks I got a book from [Oreilly Blogger Review](http://oreilly.com/bloggers/) program to review a book. I took enough time to read this book. This book covers most of the new trends and features in SQL Server 2012 with good explanation.

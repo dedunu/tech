@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to build Redis server on Ubuntu 14.04
+title: "How to build Redis server on Ubuntu 14.04"
 ---
 
 Recently we used Redis server on Ubuntu 14.04. And I just thought about writing a blog post to show how to build Redis on Ubuntu server or desktop editions. 

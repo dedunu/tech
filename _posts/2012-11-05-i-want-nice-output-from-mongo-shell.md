@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I want nice output from Mongo Shell
+title: "I want nice output from Mongo Shell"
 ---
 
 If you have so many documents in your collection in MongoDB database. Sometimes you may want to retrieve a few documents. But if we run find() we can't have nice output. You may need to have a nice indentation and line breaks. You may want results in a more readable way. Then you can use pretty().

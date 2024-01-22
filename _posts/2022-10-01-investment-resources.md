@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invesment Resources
+title: "Invesment Resources"
 ---
 
 ## Books

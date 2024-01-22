@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HDFS - How to recover corrupted HDFS metadata in Hadoop 1.2.X?
+title: "HDFS - How to recover corrupted HDFS metadata in Hadoop 1.2.X?"
 ---
 
 You might have Hadoop in your production. And sometimes Tera-bytes of data is residing in Hadoop. HDFS metadata can get corrupted. `Namenode` won't start in such cases. When you check `Namenode` logs you might see exceptions.

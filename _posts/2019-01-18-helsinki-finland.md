@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Helsinki, Finland
+title: "Helsinki, Finland"
 ---
 
 Happy new year! Although it is quite late. I visited Helsinki. I liked it even though everyone around here says it is boring. Took a ferry. Didn't take more than two and a half hours to go there. Walked pretty much 20km.

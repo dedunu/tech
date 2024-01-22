@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to change the current schema in Postgres CLI
+title: "How to change the current schema in Postgres CLI"
 ---
 
 If you want to see the current schema you are on.

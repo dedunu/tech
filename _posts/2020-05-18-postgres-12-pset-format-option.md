@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PostgreSQL 12 - pset format option
+title: "PostgreSQL 12 - pset format option"
 ---
 
 Postgres 12 has introduced a new format in psql CLI. There are 9 types available. They are listed below.

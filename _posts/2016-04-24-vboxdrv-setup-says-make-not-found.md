@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vboxdrv setup says make not found
+title: "vboxdrv setup says make not found"
 ---
 
 After you update the kernel you need to run `vboxdrv setup`. But if you are trying to compile it for the first time or after removing the `build-essential` package, you might see the below error.

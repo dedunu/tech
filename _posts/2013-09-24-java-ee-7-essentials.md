@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Java EE 7 Essentials - Book Review'
+title: "'Java EE 7 Essentials - Book Review'"
 ---
 
 Java is one of my favourite languages. A long time ago I learnt Java EE. And this book polished that knowledge I had. This book covers from servlets to EJBs, SOAP web services and many more things. But I should highlight one important thing. If you really don't know anything about Java EE, this is not for you. But if you are Java EE 6 Guru or you know something about Java EE, This is written for you. 

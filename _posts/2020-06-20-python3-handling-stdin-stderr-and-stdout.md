@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python 3: Handling stdin, stderr and stdout with subprocess
+title: "Python 3: Handling stdin, stderr and stdout with subprocess"
 ---
 
 I don't like using subprocess that often. Using `subprocess` to invoke `curl` instead of using `requests` is not how you should use it. But there are valid exceptions.

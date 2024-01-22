@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you fed up with Outlook Express
+title: "Are you fed up with Outlook Express"
 ---
 
 As usual most of us are using web-based emails such as Yahoo, G mail or Hotmail. Almost no one uses email client software like Outlook Express or Outlook. Every time we click on an email link it opens Outlook and ask us to configure the email account.

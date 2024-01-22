@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apache Spark Job with Maven
+title: "Apache Spark Job with Maven"
 ---
 
 Today, I'm going to show you how to write a sample word count application using Apache Spark. For dependency resolution and building tasks, I'm using Apache Maven. However, you can use the SBT (Simple Build Tool). Most of the Java Developers are familiar with Maven. Hence I decided to show an example using Maven.
@@ -141,7 +141,7 @@ You can find the project on Github - [https://github.com/dedunu/spark-example](h
 
 Enjoy Spark!
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/749a390d97fd20bf0991402c0b29d7a2>
 - <https://gist.github.com/dedunumax/bcf6282d76341ea7b4ae1dd644b46245>

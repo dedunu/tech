@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alfresco 5.0.1 Document Preview doesn't work on Ubuntu?
+title: "Alfresco 5.0.1 Document Preview doesn't work on Ubuntu?"
 ---
 
 I recently installed Alfresco for testing in the vagrant instance. I used the Ubuntu image for the vagrant instance. But I forgot to install all the libraries which are necessary to be installed on Ubuntu before you install alfresco. But fortunately alfresco worked without those dependencies.
@@ -88,7 +88,7 @@ $ sudo apt-get install libxinerama1
 
 Make sure you run both commands above!
 
-#### Gists
+## Gist
 
 - <https://gist.github.com/dedunumax/3d748846bc7f6fc6b87e>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix thinkorswim decimal places issue in OS X
+title: "Fix thinkorswim decimal places issue in OS X"
 ---
 
 I love thinkorswim platform. It is really great to go through the market data and fundamentals. Recently, thinkorswim had an issue on displaying decimal places. It looked like below.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paradox: Privacy vs AI
+title: "Paradox: Privacy vs AI"
 ---
 
 We are living in an age where we would love to experience better predictions. Predictions can come in many ways. The simplest example is the recommendations. Amazon, Netflix and Spotify recommend it all the time. They provide impressive recommendations. Everybody loves when AI/ML makes our lives easier. It can be recognizing faces or showing you the news you want to see.[1] We have systems which beat specialists. [2]

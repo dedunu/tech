@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MongoShell Database Navigation
+title: "MongoShell Database Navigation"
 ---
 
 If you are new to MongoDB you may need to discover the databases and collections (basically objects) on your MongoDB instance. For this easily you can use a GUI tool like [MongoVUE](https://www.blogger.com/u/1/mongovue.com). But in this blog post, I’m not going to describe GUI tools. I’m going to explain about MongoShell to navigate through database objects.

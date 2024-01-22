@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are you going to save space using Bit Data Type? - Part 2
+title: "Are you going to save space using Bit Data Type? - Part 2"
 ---
 
 [Yesterday I wrote a post with the same title](https://www.dedunu.info/2012/10/are-you-going-to-save-space-using-bit.html). In that post I mentioned using char(1) is also the same as using a one-bit column in the table. But it is from the perspective of storage space. But using numbers is less burden to the Database engine. It means using 1 and 0 is better than using ‘Y’ and ‘N’. Also in comparing data or in sorting data, it is easier.

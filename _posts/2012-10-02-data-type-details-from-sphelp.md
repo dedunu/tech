@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Type details from sphelp
+title: "Data Type details from sphelp"
 ---
 
 I wanted to learn about data types. Then I went to TechNet somehow most of the important things were there in TechNet documentation. But I found another way to get figures from SQL Server. We can have details of data types from “sphelp”. You just have to give your data type as a parameter like below.

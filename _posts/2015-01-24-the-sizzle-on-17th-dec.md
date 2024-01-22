@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sizzle on 17th Dec
+title: "The Sizzle on 17th Dec"
 ---
 
 

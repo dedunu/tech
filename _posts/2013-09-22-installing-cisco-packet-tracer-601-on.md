@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing Cisco Packet Tracer 6.0.1 on Ubuntu 13.04/12.04 (64-Bit)
+title: "Installing Cisco Packet Tracer 6.0.1 on Ubuntu 13.04/12.04 (64-Bit)"
 ---
 
 I was watching some CBT Nugget Tutorials and then I wanted to work with Cisco Routers. But I don't have any Cisco device. Then I downloaded the Cisco Packet Tracer.

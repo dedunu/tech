@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did you tried to install SQL Server 2012 on Windows Server 2012?
+title: "Did you tried to install SQL Server 2012 on Windows Server 2012?"
 ---
 
 Recently I tried to install SQL Server 2012 in Windows Server 2012 box. Unfortunately, it was not easy to do that for me because setup generated few errors. And then it displayed that .NET Framework 3.5 SP1 Feature was not able to activate. 

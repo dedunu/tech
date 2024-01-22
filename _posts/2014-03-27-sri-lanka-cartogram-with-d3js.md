@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sri Lanka Cartogram with d3.js
+title: "Sri Lanka Cartogram with d3.js"
 ---
 
 We have been using d3js to visualize things on maps. And after struggling with topojson application my boss found a way to convert Sri Lanka Shapefile (.shp) to topojson format. Then we wanted to use cartograms for our visualizations.  

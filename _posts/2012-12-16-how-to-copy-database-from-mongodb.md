@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to copy a Database from a MongoDB instance to another?
+title: "How to copy a Database from a MongoDB instance to another?"
 ---
 
 Some times we need to take backups or we need to copy databases to another server for administrative purposes. But sometimes just copying files is not enough. In MongoDB Shell, they support to copy the database from remote instance to the current one with a single command. ( :D Just like Single Click in Windows )  

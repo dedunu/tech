@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article of Association Template for Sri Lankan Private Limited Companies
+title: "Article of Association Template for Sri Lankan Private Limited Companies"
 ---
 
 Recently, I registered a private limited company in Sri Lanka. My experience was surprisingly smooth. I could do all the paperwork online. Almost all the documents are generated via the online system called EROC. Payments can be done by cards too.

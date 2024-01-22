@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python: Using MFA Cache with boto3 and botocore
+title: "Python: Using MFA Cache with boto3 and botocore"
 ---
 
 I wanted to develop a CLI tool using `boto3`. If MFA is enabled, it will keep asking for a token every time application tries to create a new session. It is a bit annoying to enter the token every time. I found a way to reuse the credential cache.

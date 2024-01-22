@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tallinn, Estonia
+title: "Tallinn, Estonia"
 ---
 
 Tere!

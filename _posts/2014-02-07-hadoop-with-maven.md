@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hadoop with Maven
+title: "Hadoop with Maven"
 ---
 
 The last couple of days, I have been playing with Hadoop. Because of that, I couldn't blog much often.
@@ -61,7 +61,7 @@ I wanted to automated packaging with Maven. Below gist shows a sample Maven pom.
 
 This will resolve Hadoop dependency and package it as a jar file. Hope this will help you!
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/8416120>
 

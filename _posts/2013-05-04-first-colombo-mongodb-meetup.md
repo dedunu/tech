@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some photos from the first Colombo MongoDB Meetup
+title: "Some photos from the first Colombo MongoDB Meetup"
 ---
 
 ![](../resources/12.jpg)

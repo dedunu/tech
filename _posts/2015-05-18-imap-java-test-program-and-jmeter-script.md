@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IMAP Java Test program and JMeter Script
+title: "IMAP Java Test program and JMeter Script"
 ---
 
 One of my colleagues wanted to write a JMeter script to test IMAP. But that code failed. So I also got involved in that. JMeter BeanShell uses Java in the backend. First I tried with a Maven project. Finally, I could write code to list the IMAP folders. Java implementation is shown below.
@@ -78,7 +78,7 @@ try {
 
 Complete Maven project is available on GitHub - [https://github.com/dedunu/imapTest](https://github.com/dedunu/imapTest)
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/a5c5498bfefe64b0bbe4>
 - <https://gist.github.com/dedunumax/13cbacfbdf60c7692b64>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to run Alfresco Share or Repository AMP projects
+title: "How to run Alfresco Share or Repository AMP projects"
 ---
 
 From [the previous post, I explained how to generate an Alfresco AMP project using Maven](http://www.dedunu.info/2015/01/how-to-generate-alfresco-5-amp-project.html). When you have an AMP project you can run it by deploying it to an existing Alfresco Repository or Share. But if you are a developer you will not find it as an effective way to run Alfresco modules. The other way is that you can run the AMP project using Maven plug-in. 

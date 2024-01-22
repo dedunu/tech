@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sunday or Someday on 27th Dec
+title: "Sunday or Someday on 27th Dec"
 ---
 
 Three of us wanted to go somewhere. Then we tried to pick a date, but we couldn't. Finally, we just agreed to go out on Sunday. We went to [Lavinia Breeze](http://www.laviniabreeze.lk/) and had fun. Screaming, Laughing. We don't mind what others think. That's us!!!

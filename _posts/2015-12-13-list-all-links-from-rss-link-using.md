@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List all the links from RSS link using Python
+title: "List all the links from RSS link using Python"
 ---
 
 Blogs and news sites use RSS(Rich Site Summary) feeds. Python can be used to fetch updates. I have written a simple program which can fetch RSS feed and print links.
@@ -75,7 +75,7 @@ for url_item in url_list:
     print(url_item)
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/4856150e6fc8a7fe5216>
 - <https://gist.github.com/dedunumax/29858412bc0dd494520f>

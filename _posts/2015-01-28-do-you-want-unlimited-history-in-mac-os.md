@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do you want Unlimited history in Mac OS X Terminal?
+title: "Do you want Unlimited history in Mac OS X Terminal?"
 ---
 
 Back in 2013, I wrote [a post about expanding terminal history unlimited](http://www.dedunu.info/2013/06/do-you-want-unlimited-history-in-linux.html). Recently I moved from Linux to Mac OS. Then I wanted unlimited history. Usually, in Mac OS X you will only get 500 entries in history. New entries would replace old entries.

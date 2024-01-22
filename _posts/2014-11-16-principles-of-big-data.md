@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Principles of Big Data
+title: "Principles of Big Data"
 ---
 
 ![](http://2.bp.blogspot.com/-DlNG57XWpnA/VGg6msKwyeI/AAAAAAAABHg/lw2Nf3sYJ_U/s1600/s.gif)

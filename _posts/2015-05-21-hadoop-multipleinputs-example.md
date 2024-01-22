@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hadoop MultipleInputs Example
+title: "Hadoop MultipleInputs Example"
 ---
 
 Let's assume you are working for ABC Group. And they have ABC America airline,  ABM Mobile, ABC Money, ABC Hotel, etc. ABC this and that. So you got multiple data sources. They have different types/columns. So you can't run single Hadoop Job on all the data.
@@ -290,7 +290,7 @@ I ran my sample project on my sample data set. My result file looked like below.
 
 Source code of this project is available on [GitHub](https://github.com/dedunu/hadoop-multiinput-sample)
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/132f2751c794342de53a>
 - <https://gist.github.com/dedunumax/96594b09d0f566e88ced>

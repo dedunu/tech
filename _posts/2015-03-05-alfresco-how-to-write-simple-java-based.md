@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alfresco: How to write a simple Java based Alfresco web script?'
+title: "'Alfresco: How to write a simple Java based Alfresco web script?'"
 ---
 
 If you want to develop a new feature for Alfresco best way is WebScript! Let's start with a simple Alfresco web script. First, you need to create an Alfresco AMP maven project using archetype. In this example, I'll use the latest alfresco version 5.0.
@@ -98,7 +98,7 @@ It may take a while to run the project after that open a browser window. Then vi
 
 The source [code of this project is available on GitHub](https://github.com/dedunumax/hello-webscript).
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/411620c73e80e81755d0>
 - <https://gist.github.com/dedunumax/ef370e4d00cfd4d6b05f>

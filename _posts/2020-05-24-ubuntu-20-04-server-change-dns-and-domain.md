@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu 20.04 Server: How to change DNS and domain name
+title: "Ubuntu 20.04 Server: How to change DNS and domain name"
 ---
 
 In the new Ubuntu version, you cannot change `/etc/resolv.conf`.  You can change it. But it won't last a restart. It will be replaced by `systemd-resolved`.

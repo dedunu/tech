@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vagrant on Windows 7 vs Ubuntu 14.04
+title: "Vagrant on Windows 7 vs Ubuntu 14.04"
 ---
 
 My whole team had to work on a project which is using Vagrant. Most of us had 8GB memory except one unfortunate intern. He had only 4GB of memory on his workstation. All the team members could spawn Vagrant machines without a problem except him.

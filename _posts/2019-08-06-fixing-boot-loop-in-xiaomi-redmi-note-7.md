@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixing boot loop in Xiaomi Redmi Note 7
+title: "Fixing boot loop in Xiaomi Redmi Note 7"
 ---
 
 I bought a Xiaomi [Redmi Note 7](https://www.gsmarena.com/xiaomi_redmi_note_7-9513.php) with MIUI Version: 10.3.5. I was not very happy with the preinstalled apps. So I tried to remove them using "`adb`". I accidentally deleted some app  I shouldn't delete.

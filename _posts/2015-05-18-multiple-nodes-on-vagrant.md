@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple nodes on Vagrant
+title: "Multiple nodes on Vagrant"
 ---
 
 Recently I started working with Vagrant. A vagrant is a good tool that you can use for development. From this post, I'm going to explain how to create multiple nodes on the Vagrant project.
@@ -244,7 +244,7 @@ $ vagrant ssh slave1
 
 Whatever the machine you want to connect you just have to type `vagrant ssh`. Hope this will help you!
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/e67183ff613083fb7617>
 - <https://gist.github.com/dedunumax/b1190e9177e75e33d21c>

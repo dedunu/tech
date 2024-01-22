@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python 3: Encrypting Ansible Vault programmatically
+title: "Python 3: Encrypting Ansible Vault programmatically"
 ---
 
 `ansible` is the only module needed for this script.  If you don't need to specify `vault_id`, below code would work.

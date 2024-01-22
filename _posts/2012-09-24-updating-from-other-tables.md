@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updating from other Tables
+title: "Updating from other Tables"
 ---
 
 If you want to synchronize data from another table only for once, you can use this way. When you are going to update from another table don’t forget to give a condition.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Insert in T-SQL
+title: "Insert in T-SQL"
 ---
 
 I’m still a beginner in SQL Server.  I  will blog about many basic things in SQL Server. Inserting is very important Data Manipulation Statement. So let's see how to use INSERT Statement in different ways.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL Server is not releasing memory?
+title: "SQL Server is not releasing memory?"
 ---
 
 I got a few questions to answer quickly in last week just like a test. Then I suddenly answered then after that I tried to find correct answers to them. I found answers for most of them. And one of them was there as it was.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing custom Github actions for private repositories
+title: "Writing custom Github actions for private repositories"
 ---
 
 Using 3rd party Github actions on your projects can be dangerous. Tags can be changed afterward.[1] It might be time-consuming to go through a published action that might take more time. Even if you write custom actions yourself, in a separate repository, you need to publish them in a public repository, for now, to use in a workflow.

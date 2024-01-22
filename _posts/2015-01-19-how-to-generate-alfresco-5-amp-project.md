@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to generate Alfresco 5 AMP project
+title: "How to generate Alfresco 5 AMP project"
 ---
 
 Recently I have been working as an Alfresco Developer. When you are developing Alfresco Modules, you need to have a proper project with the correct directory structure. Since Alfresco use Maven, you can generate an Alfresco 5 AMP project using archetype.

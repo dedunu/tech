@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethics of Big Data
+title: "Ethics of Big Data"
 ---
 
 ![](http://akamaicovers.oreilly.com/images/9781449311797/s.gif)

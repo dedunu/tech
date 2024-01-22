@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix InsecurePlatformWarning on Ubuntu?
+title: "How to fix InsecurePlatformWarning on Ubuntu?"
 ---
 
 Python modules sometimes give issues. We got below warning from a python application.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SELECT INTO
+title: "SELECT INTO"
 ---
 
 My previous blog post was about [using the `INSERT` command in different ways](https://www.dedunu.info/2012/09/insert-in-t-sql.md). You can use `SELECT INTO` to add data from an existing table to a new table. In this statement, SQL Server will create a table for you. You just want to write the query and add `INTO` clause to the statement. Rest will be done by SQL Server for you.

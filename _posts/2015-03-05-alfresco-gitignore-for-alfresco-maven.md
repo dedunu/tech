@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alfresco: .gitignore for Alfresco Maven Projects'
+title: "'Alfresco: .gitignore for Alfresco Maven Projects'"
 ---
 
 If you are an Alfresco developer, you have to develop projects using Alfresco AMP modules. Previously Alfresco has used Ant to build projects. But latest Alfresco SDK is using Apache Maven. AMP maven projects generate a whole lot of temporary files. Those files you don't want in your version control system. 
@@ -9,7 +9,7 @@ Nowadays almost everyone is using Git. If I say Git is the most popular version 
 
 You can create a file called .gitignore on the root folder of your Git repository. Then copy the above content and add it to that file. After that commit that files into your Git repository. Now you don't have to worry about unwanted files.
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/f0187881ea0f140d8889>
 

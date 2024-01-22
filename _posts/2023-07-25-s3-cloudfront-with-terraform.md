@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Private S3 bucket and CloudFront with Terraform
+title: "Private S3 bucket and CloudFront with Terraform"
 ---
 
 I wanted to setup a CDN for [my travel blog](https://dedunu.click). I followed couple of resources and came up with this setup.

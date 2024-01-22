@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix Incompatible clusterIDS in Hadoop?
+title: "How to fix Incompatible clusterIDS in Hadoop?"
 ---
 
 When you are installing and trying to set up your Hadoop cluster you might face an issue like below.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alfresco: Calculate folder size using Java based WebScript'
+title: "'Alfresco: Calculate folder size using Java based WebScript'"
 ---
 
 I was assigned to a training task to write a web script for calculating the size of a folder or a file. But you need to go through all the nodes recursively. If you don't calculate it recursively in folders you won't get accurate folder size.  
@@ -190,7 +190,7 @@ If you have followed the instruction properly, you will get a page like below.
 
 If you have any questions regarding these examples, please comment!!! Enjoy Alfresco!
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/20a17d08c6efe1f2314f>
 - <https://gist.github.com/dedunumax/e131cbf9aaef1ffc4e60>

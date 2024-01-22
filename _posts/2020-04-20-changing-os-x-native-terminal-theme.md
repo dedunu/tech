@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing OS X native Terminal theme from commands
+title: "Changing OS X native Terminal theme from commands"
 ---
 
 I used iTerm2 for a while. But it is taking a lot of memory. I wanted to configure the native terminal application on OS X.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise Messaging
+title: "Enterprise Messaging"
 ---
 
 ![](http://1.bp.blogspot.com/-halpjPK6D2o/VGykVn923xI/AAAAAAAABH0/ptzHPVlIsOQ/s1600/cat.gif)

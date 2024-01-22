@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to reset replication in MySQL/MariaDB RDS?
+title: "How to reset replication in MySQL/MariaDB RDS?"
 ---
 
 `RESET SLAVE;` doesn't work in AWS MySQL RDS. You should use the below command to stop replication.

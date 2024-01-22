@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debug bash scripts
+title: "Debug bash scripts"
 ---
 
 One day, I had to go through a large bash script and create a Debian package for our system. It could have been a strenuous job if I had to understand it. I was lazy to read it. So I found an easy way to get all the steps. I downloaded this on a container and ran with `bash -x`.

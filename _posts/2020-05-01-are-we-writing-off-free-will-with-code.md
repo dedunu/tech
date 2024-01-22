@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are we writing off free-will with code?
+title: "Are we writing off free-will with code?"
 ---
 
 Are we developing so-called solutions to diminish free-will, relationships and society as we know it?

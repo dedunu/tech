@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pgloader: Migrating a table from MySQL/MariaDB to PostgreSQL
+title: "pgloader: Migrating a table from MySQL/MariaDB to PostgreSQL"
 ---
 
 `pgloader` is a helpful tool if you want to migrate tables from MySQL/MariaDB to Postgres. This works with AWS RDS instances too.
@@ -43,7 +43,7 @@ You can use the below command to start the migration
 $ pgload user.load
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/d8b2cdbf0218b03fc0c17289ae27a726>
 - <https://gist.github.com/dedunumax/931e113b341cad572f742bfbbd5c670d>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Table Expressions (CTE)
+title: "Common Table Expressions (CTE)"
 ---
 
 ```sql

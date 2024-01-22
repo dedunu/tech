@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraform: How to run a command after an RDS creation?
+title: "Terraform: How to run a command after an RDS creation?"
 ---
 
 I wanted to know how to run a command after creating an RDS instance with Terraform. This was the answer I got from AWS. Even though, Terraform shouldn't be used like this. 
@@ -33,7 +33,7 @@ resource "null_resource" "test" {
 }
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/932b707caa3a5a5a3736dcdce326e6c4>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Titan DB vs Neo4J
+title: "Titan DB vs Neo4J"
 ---
 
 This comparison is an outdated comparison. I think `Neo4J` has improved a lot with the time. But I'm posting this because a person who wants to compare both of these technologies, can get an idea about the aspects they need to focus. If you know something is outdated please feel free to suggest using comments. I'll update the blog post accordingly.

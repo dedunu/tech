@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to specify ReleaseLabel for EMR cluster with Boto2
+title: "How to specify ReleaseLabel for EMR cluster with Boto2"
 ---
 
 Boto is the AWS SDK for Python. You can create clusters, instances or anything using Boto. But sometimes Boto imposes limitations. I wanted to create an EMR cluster with `RelaseLabel=4.2.0`. But we were using Boto2. `ReleaseLabel` is an option in Boto3. For Boto2 there was no documented option for `RelaseLabel`.
@@ -110,7 +110,7 @@ cluster_id = connection.run_jobflow(
 print (cluster_id)
 ```
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/f362c3a17a9027ebed2b>
 - <https://gist.github.com/dedunumax/b7a0f54d2535f74e7542>

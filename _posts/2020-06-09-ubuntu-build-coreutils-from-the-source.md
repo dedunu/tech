@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu 20.04: Build and install coreutils from the source
+title: "Ubuntu 20.04: Build and install coreutils from the source"
 ---
 
 I wanted to build and install `coreutils` on a Ubuntu server. You will be probably fine with the stable release of `coreutils` that comes with Ubuntu. First I had to install the tools needed for the build.

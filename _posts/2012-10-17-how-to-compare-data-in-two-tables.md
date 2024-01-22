@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to compare data in two tables?
+title: "How to compare data in two tables?"
 ---
 
 At the beginning of this week, I got a task from [Susantha](http://www.sqlservertorque.com/) to modify a stored procedure. After the modification, I had to test to compare the result sets before modification and after modification. That procedure only returns a data table. So I had so many test data on another table. Then I wrote a script to go through the script one by one. Actually, I wanted to check whether those results are identical. I mean not the table structure. I wanted to perform a data comparison.  

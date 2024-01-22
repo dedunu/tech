@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia 4.2 Review
+title: "Nokia 4.2 Review"
 ---
 
 I recently bought a [Nokia 4.2 32GB/3GB phone](https://www.gsmarena.com/nokia_4_2-9603.php). I am quite happy with it. But I wanted to write down the pros and cons of the device. I bought this device three months ago. It costs me around 120 EUR/130 USD. Prior to this, I used an Xiaomi Redmi Note 7. I was never happy with the software. It was bloated with so many applications I didn't use.

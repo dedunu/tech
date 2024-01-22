@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mass insertion on Redis
+title: "Mass insertion on Redis"
 ---
 
 You may want to insert a lot of data into Redis. This would be easier to insert a lot of data into Redis using Linux commands. Let's say we have a comma separated values in a file.

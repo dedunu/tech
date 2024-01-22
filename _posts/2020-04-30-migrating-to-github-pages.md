@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrating to Github Pages
+title: "Migrating to Github Pages"
 ---
 
 My blog has been living on self-hosted Wordpress, `wordpress.com` and `blogger.com`. But I have migrated it several times at the cost of losing posts and even domain names. But I have been holding `dedunu.info` since 2011. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Public Data Sets for Data Science Projects
+title: "Getting Public Data Sets for Data Science Projects"
 ---
 
 All of us are interested in doing brilliant things with data sets. Most people use Twitter data streams for their projects. But there a lot of free data sets on the Internet. Today, I'm going to list down a few of them. Almost all of these links, I found from a Lynda.com course called [Up and Running with Public Data Sets](https://www.lynda.com/Tableau-tutorials/Up-Running-Public-Data-Sets/368761-2.html). If you want more details, please watch the complete course on Lynda.com.

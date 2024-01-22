@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraform: Error locking state
+title: "Terraform: Error locking state"
 ---
 
 If you have Terraform state locks. Sometimes cancelling terraform commands ungracefully might leave the state file locked. This is the error you would usually see if the lock is not released.
@@ -42,7 +42,7 @@ $ terraform force-unlock 21e2b2bb-c123-2383-eece-7a5eaab4f645
 
 > Warning: Please don't release this lock, unless you are the once who caused it. It might corrupt the state file.
 
-#### Gistss
+### Gists
 
 - <https://gist.github.com/dedunumax/19cbb46ed1bca17f9d9c49bf5dd44b4a>
 

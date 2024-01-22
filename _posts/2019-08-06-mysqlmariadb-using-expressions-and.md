@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL/MariaDB: Using expressions and conditions in Update
+title: "MySQL/MariaDB: Using expressions and conditions in Update"
 ---
 
 I ran a few update queries against a MySQL database. Update command said it updated some records. But data didn't seem to be as we expect. Let's say the table looked like below.

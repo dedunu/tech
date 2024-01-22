@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to take list of databases in SQL Server
+title: "How to take list of databases in SQL Server"
 ---
 
 In SQLCMD and Powershell I wanted to take the list of databases. In MySQL “show databases” command was there. But in `SQLCMD` I was unable to find such a command.  

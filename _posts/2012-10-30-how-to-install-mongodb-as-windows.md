@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to install MongoDB as a Windows Service
+title: "How to install MongoDB as a Windows Service"
 ---
 
 At the first date I heard about NoSQL DBMS, I felt insane. Then I got eager to learn. But I didn’t pay any attention to learn. Later I got to know that MongoDB is a scalable one. Then I got a chance to follow [free MongoDB course](http://education.10gen.com/). Although I registered to both Developer and DBA courses I had no time to watch developer tutorials. But I finished DBA 1st Week. In that video tutorial, they explain how to install MongoDB on Windows as well as on UNIX. But when we are using Mongo in Windows Development Environment it’s a headache to start service again and again. Because of that, I wanted to install MongoDB as a Windows Service.  
