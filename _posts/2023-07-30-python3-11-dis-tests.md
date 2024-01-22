@@ -50,19 +50,19 @@ I thought the first function would have fewer bytecode operations. But this is t
 
 Turns out the first function has more bytecode operations. It loads the None value and return it. I wanted to run some tests around the running time. I ran the function for thousands of times and recorded the running time. 
 
-![](../resources/16.png)
+![](/resources/16.png)
 
-![](../resources/17.png)
+![](/resources/17.png)
 
 Above two figures shows the difference between `function_1` and `function_2` execution time on an AMD Dual core processors. I was hoping to see more clear evidence, I thought `function_2` would be slightly faster. X axis shows number of times I ran the functions in a loop. Y axis shows the difference in time (function_1 time - function_2 time).
 
-![](../resources/18.png)
+![](/resources/18.png)
 
-![](../resources/19.png)
+![](/resources/19.png)
 
 Above two charts shows the same test on an Intel chip. I don't see any clear evidence.
 
-![](../resources/20.jpeg)
+![](/resources/20.jpeg)
 
 I ran the same number of functions calls for 250 times and got this variation in differences. I am still not sure about the results. I will investigate this further.
 
