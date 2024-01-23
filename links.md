@@ -5,7 +5,7 @@ title: Links
 
 ## Blog
 
-- https://github.com/dedunu/blog/blob/main/README.md
+- <https://github.com/dedunu/blog/blob/main/README.md>
 
 ## Github
 
