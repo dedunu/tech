@@ -3,11 +3,11 @@ layout: post
 title: "Psycopg causing issues without autocommit"
 ---
 
-I have seen this couple of times in the last five years. When we write adhoc Python scripts using Psycopg2 without `autocommit=True`, you may see wierd spikes on your idle on transaction like below.
+I have seen this couple of times in the last five years. When we write adhoc Python scripts using Psycopg2 without `autocommit=True`, you may see wierd spikes on your idle on transaction like below. This was a batch job. It was running every 10 seconds. If your batch job is not closing connections or restarting from the scratch, your `SELECT` queries might see very old versions of the data. We have to be very careful with this. As it can cause data loss too.
 
 ![](/resources/21.png)
 
-I also have seen idle_in_transaction goes to days in one instance too. That will stop auto-vaccuum. It will cause a lot of issues and slow down your database. When you use Psycopg, Make sure you have autocommit=True or you commit manually.
+I also have seen `idle_in_transaction_max_time` goes to days in one instance too. That will stop `auto-vaccuum` doing its work. It will cause a lot of issues and slow down your database. When you use Psycopg, Make sure you have `autocommit=True` or you commit manually.
 
 ![](/resources/22.png)
 
