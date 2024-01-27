@@ -7,7 +7,7 @@ Original documentation for Raspberry Pi documentation shows turning on LED this 
 
 ```python
 from machine import Pin, Timer
-led = Pin(15, Pin.OUT)
+led = Pin(25, Pin.OUT)
 timer = Timer()
 
 def blink(timer):
@@ -32,7 +32,7 @@ timer.init(freq=2.5, mode=Timer.PERIODIC, callback=blink)
 
 ### Reference
 
-- <https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/6>
+- <https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/5>
 
 ### Tags
 
