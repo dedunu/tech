@@ -1,9 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# This will help ensure the proper Jekyll version is running.
-gem "jekyll", github: "jekyll/jekyll"
+gem 'jekyll', '4.0.0'
 
 group :jekyll_plugins do
-  gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
+  gem 'jekyll-feed', '0.12.1'
+  gem 'jekyll-paginate', '1.1.0'
+  gem 'jekyll-seo-tag', '2.6.1'
+  gem 'jekyll-sitemap', '1.3.1'
 end
