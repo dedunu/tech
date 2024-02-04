@@ -35,7 +35,6 @@ resource "aws_organizations_policy" "plan_1_policy" {
   content = jsonencode(local.plan1)
 }
 
-
 resource "aws_organizations_policy_attachment" "plan_1_policy_attachment" {
   policy_id = aws_organizations_policy.plan_1_policy.id
   target_id = "<account-id>"
