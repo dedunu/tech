@@ -63,8 +63,8 @@ locals {
             },
             "recovery_point_tags" : {
               "Owner" : {
-                "tag_key" : { "@@assign" : "Owner" },
-                "tag_value" : { "@@assign" : "Backup" }
+                "tag_key" : { "@@assign" : "cost-center" },
+                "tag_value" : { "@@assign" : "longterm-backup" }
               }
             },
           }
