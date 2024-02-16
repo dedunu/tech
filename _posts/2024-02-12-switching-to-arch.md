@@ -23,6 +23,8 @@ Firefox is no longer a snap. It is very fast. I like using Firefox again. Since 
 
 I installed an icon pack and a cursor to make it eye candy. I upgraded the RAM to 16GB to several VMs on this PC. I wish I switched to Arch Linux long time ago. Honestly, it is not that complicated to install and configure. I had very little to configure.
 
+PS: [BTW I use Arch](https://knowyourmeme.com/memes/btw-i-use-arch)
+
 ### Reference
 
 - <https://ubuntu.com/pro>
