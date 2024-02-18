@@ -83,6 +83,8 @@ locals {
 }
 ```
 
+<script src="https://gist.github.com/dedunumax/6073737d6d790a457bbe89627c723ede.js"></script>
+
 ### Tags
 
 - aws
