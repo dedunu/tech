@@ -27,62 +27,6 @@ terraform {
 ```
 
 `organizational_policy.tf`
-```hcl
-resource "aws_organizations_policy" "plan_1_policy" {
-  name = "dedunu-info-backup-plan-1-policy"
-  type = "BACKUP_POLICY"
-
-  content = jsonencode(local.plan1)
-}
-
-resource "aws_organizations_policy_attachment" "plan_1_policy_attachment" {
-  policy_id = aws_organizations_policy.plan_1_policy.id
-  target_id = "<account-id>"
-}
-
-locals {
-  plan1 = {
-    "plans" : {
-      "dedunu-info-backup-plan-1" : {
-        "regions" : {
-          "@@assign" : [
-            "us-east-1",
-            "us-east-2"
-          ]
-        },
-        "rules" : {
-          "dedunu-info-backup-plan-1-rule" : {
-            "schedule_expression" : { "@@assign" : "cron(0 5 ? * * *)" },
-            "target_backup_vault_name" : { "@@assign" : "aws-backup-vault" },
-            "start_backup_window_minutes" : { "@@assign" : "60" },
-            "complete_backup_window_minutes" : { "@@assign" : "180" },
-            "enable_continuous_backup" : { "@@assign" : "false" },
-            "lifecycle" : {
-              "delete_after_days" : { "@@assign" : "14" }
-            },
-            "recovery_point_tags" : {
-              "Owner" : {
-                "tag_key" : { "@@assign" : "cost-center" },
-                "tag_value" : { "@@assign" : "longterm-backup" }
-              }
-            },
-          }
-        },
-        "selections" : {
-          "tags" : {
-            "dedunu-info-backup-plan-1-selection" : {
-              "iam_role_arn" : { "@@assign" : "arn:aws:iam::$account:role/service-role/AWSBackupDefaultServiceRole" },
-              "tag_key" : { "@@assign" : "backup" },
-              "tag_value" : { "@@assign" : ["dedunu-backup-daily-plan-1"] }
-            }
-          }
-        }
-      }
-      }
-  }
-}
-```
-
 <script src="https://gist.github.com/dedunumax/6073737d6d790a457bbe89627c723ede.js"></script>
 
 ### Tags
