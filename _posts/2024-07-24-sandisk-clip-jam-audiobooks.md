@@ -9,7 +9,7 @@ I was looking for an MP3 player. I found a couple of devices. It came down to So
 
 I ordered a SanDisk Clip Jam. I purchased the 8GB version. The package included a basic earphone. It is not super high quality. But for audiobooks, it will do. I used Apple earphones instead.
 
-These are my findings.
+These are my findings:
 - The battery is excellent. I listen to audiobooks for 4-5 hours. (Even longer without charging again)
 - It turns off automatically. I love this feature.
 - MP3 format works very well! Dah!
