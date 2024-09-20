@@ -5,9 +5,9 @@ title: "Pico W based Internet Clock"
 
 You will need these three items.
 
-- Raspberry Pi Pico W with soldered headers - https://www.raspberrypi.com/products/raspberry-pi-pico-2/
-- Grove Shield for Pi Pico - https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html
-- Grove - OLED Display 0.66" (SSD1306) - https://www.seeedstudio.com/Grove-OLED-Display-0-66-SSD1306-v1-0-p-5096.html
+- Raspberry Pi Pico W with soldered headers - <https://www.raspberrypi.com/products/raspberry-pi-pico-2/>
+- Grove Shield for Pi Pico - <https://www.seeedstudio.com/Grove-Shield-for-Pi-Pico-v1-0-p-4846.html>
+- Grove - OLED Display 0.66" (SSD1306) - <https://www.seeedstudio.com/Grove-OLED-Display-0-66-SSD1306-v1-0-p-5096.html>
 
 Total cost should be around 15 USD. I attached the OLED display to I2C.
 
