@@ -81,8 +81,6 @@ title: Links
 
 ## Other
 
-- <https://dedunu.click>
-- <https://tea.dedunu.info>
 - <https://travel.dedunu.info>
 - <https://dzone.com/articles/apache-hadoop-how-mapreduce-can-essentiate-the-dat>
 - <https://community.openhab.org/t/solved-default-sudoers-openhab/50714/5>
