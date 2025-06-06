@@ -57,3 +57,10 @@ sudo systemctl restart grafana-server
 By following these steps, you will successfully migrate your Grafana SQLite database to PostgreSQL.
 
 Note: LLMs were harmed in the making of this document.
+
+### Tags
+
+- postgresql
+- sqlite
+- grafana
+- migration
